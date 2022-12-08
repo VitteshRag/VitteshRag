@@ -19,16 +19,16 @@
 <br>
 <br>
 <h3 align="center">Connect with me :</h3>
-<p align="left">
-<a href="https://twitter.com/vitteshraghavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vitteshraghavan" height="50" width="60" /></a> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
-<a href="https://linkedin.com/in/vittesh raghavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vittesh raghavan" height="50" width="60" /></a> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+<p align="center">
+<a href="https://twitter.com/vitteshraghavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vitteshraghavan" height="50" width="60" /></a> &nbsp &nbsp &nbsp &nbsp &nbsp 
+<a href="https://linkedin.com/in/vittesh raghavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vittesh raghavan" height="50" width="60" /></a> &nbsp &nbsp &nbsp &nbsp &nbsp 
 <a href="https://fb.com/vittesh raghavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vittesh raghavan" height="50" width="60" /></a> &nbsp &nbsp &nbsp &nbsp &nbsp 
-<a href="https://instagram.com/vittesh_rag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vittesh_rag" height="50" width="60" /></a> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
-<a href="https://www.youtube.com/c/vittesh raghavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vittesh raghavan" height="50" width="60" /></a> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
-<a href="https://www.codechef.com/users/vittesh_rag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vittesh_rag" height="50" width="60" /></a> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
-<a href="https://www.hackerrank.com/vittesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vittesh" height="50" width="60" /></a> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
-<a href="https://www.leetcode.com/vitteshrag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vitteshrag" height="50" width="60" /></a> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
-<a href="https://discord.gg/Vitz#6053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Vitz#6053" height="50" width="60" /></a> &nbsp &nbsp &nbsp &nbsp 
+<a href="https://instagram.com/vittesh_rag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vittesh_rag" height="50" width="60" /></a> &nbsp &nbsp &nbsp &nbsp &nbsp 
+<a href="https://www.youtube.com/c/vittesh raghavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vittesh raghavan" height="50" width="60" /></a> &nbsp &nbsp &nbsp &nbsp &nbsp 
+<a href="https://www.codechef.com/users/vittesh_rag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vittesh_rag" height="50" width="60" /></a> &nbsp &nbsp &nbsp &nbsp &nbsp 
+<a href="https://www.hackerrank.com/vittesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vittesh" height="50" width="60" /></a> &nbsp &nbsp &nbsp &nbsp &nbsp  
+<a href="https://www.leetcode.com/vitteshrag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vitteshrag" height="50" width="60" /></a> &nbsp &nbsp &nbsp &nbsp &nbsp
+<a href="https://discord.gg/Vitz#6053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Vitz#6053" height="50" width="60" /></a> &nbsp &nbsp &nbsp &nbsp &nbsp
 </p>
 <br>
 <br>
