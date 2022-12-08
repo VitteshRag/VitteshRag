@@ -47,10 +47,8 @@
 <br>
 <br>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitteshrag&show_icons=true&locale=en&layout=compact" alt="vitteshrag" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vitteshrag&show_icons=true&locale=en" alt="vitteshrag" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitteshrag&show_icons=true&locale=en&layout=compact" alt="vitteshrag" /></p>
 <br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vitteshrag&show_icons=true&locale=en" alt="vitteshrag" /></p>
 <br>
-<br>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vitteshrag&" alt="vitteshrag" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitteshrag&" alt="vitteshrag" /></p>
