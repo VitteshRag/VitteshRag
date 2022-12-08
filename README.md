@@ -18,6 +18,7 @@
 <br>
 <br>
 <br>
+<hr>
 <h3 align="center">Connect with me :</h3>
 <p align="center">
 <a href="https://twitter.com/vitteshraghavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vitteshraghavan" height="50" width="60" /></a> &nbsp &nbsp &nbsp &nbsp &nbsp 
@@ -31,7 +32,7 @@
 <a href="https://discord.gg/Vitz#6053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Vitz#6053" height="50" width="60" /></a> &nbsp &nbsp &nbsp &nbsp &nbsp
 </p>
 <br>
-<br>
+<hr>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>  &nbsp &nbsp &nbsp &nbsp 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp &nbsp &nbsp &nbsp
@@ -44,9 +45,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp &nbsp &nbsp &nbsp
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> &nbsp &nbsp &nbsp &nbsp
 </p>
-<br>
-<br>
-<br>
+<hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitteshrag&show_icons=true&locale=en&layout=compact" alt="vitteshrag" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vitteshrag&show_icons=true&locale=en" alt="vitteshrag" /></p>
