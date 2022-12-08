@@ -1,7 +1,6 @@
 <h1 align="center">Hey, My name is Vittesh Raghavan</h1>
 <h3 align="center">Passionate Game Developer, 3D artist and Video Creator.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitteshrag&label=Profile%20views&color=0e75b6&style=flat" alt="vitteshrag" /> </p>
 
