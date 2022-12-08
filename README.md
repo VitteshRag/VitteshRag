@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **vitteshraghavan@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/yc85u6r6](https://tinyurl.com/yc85u6r6)
-
 - 👨‍💻 My resume : [Link to my Resume](https://drive.google.com/file/d/1R9zKJaox0VnhaiEsH-xKWPDj1dOkpbYI/view?usp=share_link)
 <br>
 <br>
