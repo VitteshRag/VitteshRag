@@ -3,8 +3,7 @@
 
 <p><img align="right" src="https://github.com/VitteshRag/VitteshRag/blob/main/logofinal.png" width="300" height="200" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vitteshrag&label=Profile%20views&color=0e75b6&style=flat" alt="vitteshrag" /> </p>
-
+<br>
 
 - 👨‍💻 All of my projects are available at [https://www.flowcode.com/page/vittesh](https://www.flowcode.com/page/vittesh)
 
