@@ -1,4 +1,4 @@
-<h1 align="center">Hey, My name is Vittesh Raghavan</h1>
+<h1 align="center">Hey! My name is Vittesh Raghavan</h1>
 <h3 align="center">Passionate Game Designer, 3D artist and Video Creator.</h3>
 
 <p><img align="right" src="https://github.com/VitteshRag/VitteshRag/blob/main/logofinal.png" width="300" height="200" /></p>
