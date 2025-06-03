@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vitteshraghavan@gmail.com**
 
-- 👨‍💻 My Portfolio : [Link to my Resume](vitteshraghavan.com)
+- 👨‍💻 My Portfolio : [Link to my Resume](https://www.vitteshraghavan.com)
 <br>
 <br>
 <br>
