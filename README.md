@@ -5,7 +5,7 @@
 
 <br>
 
-- 👨‍💻 All of my projects are available at [https://www.flowcode.com/page/vittesh](https://www.flowcode.com/page/vittesh)
+- 👨‍💻 Check out my website [My website]([https://www.flowcode.com/page/vittesh](https://vitteshraghavan.com/))
 
 - 📫 How to reach me **vitteshraghavan@gmail.com**
 
