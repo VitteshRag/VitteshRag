@@ -5,7 +5,7 @@
 
 <br>
 
-- 👨‍💻 Check out my website [My website]([https://www.flowcode.com/page/vittesh](https://vitteshraghavan.com/))
+- 👨‍💻 Check out my website [My website](https://vitteshraghavan.com/)
 
 - 📫 How to reach me **vitteshraghavan@gmail.com**
 
