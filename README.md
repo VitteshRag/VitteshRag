@@ -8,8 +8,6 @@
 - 👨‍💻 Check out my website [My website](https://vitteshraghavan.com/)
 
 - 📫 How to reach me **vitteshraghavan@gmail.com**
-
-- 👨‍💻 My Portfolio : [Link to my Resume](https://www.vitteshraghavan.com)
 <br>
 <br>
 <br>
